@@ -1,0 +1,82 @@
+/* Style the input fields */
+.resetfields {
+  width: 50%;
+  padding: 10px;
+  outline: none;
+}
+
+
+/* Set a style for the submit button */
+.resetclass {
+  background-color: dodgerblue;
+  color: black;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  opacity: 0.9;
+}
+
+.resetfields {
+  background-color: skyblue;
+
+
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+
+/*  */
+
+.regfields {
+  width: 50%;
+  padding: 10px;
+  outline: none;
+}
+
+
+/* Set a style for the submit button */
+.bttn {
+  background-color: dodgerblue;
+  color: black;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  opacity: 0.9;
+}
+
+.regfields {
+  background-color: skyblue;
+
+
+  width: 80%;
+  margin-bottom: 10px;
+}
+/*   */
+
+.loginfield {
+  width: 50%;
+  padding: 10px;
+  outline: none;
+}
+
+
+/* Set a style for the submit button */
+.btnlogin {
+  background-color: dodgerblue;
+  color: black;
+  padding: 15px 20px;
+  border: none;
+  cursor: pointer;
+  width: 10%;
+  opacity: 0.9;
+}
+
+.loginfield {
+  background-color: skyblue;
+
+
+  width: 80%;
+  margin-bottom: 10px;
+}
